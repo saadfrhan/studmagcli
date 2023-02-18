@@ -1,5 +1,5 @@
 {
-  "name": "smscli",
+  "name": "studmagcli",
   "version": "1.0.0",
   "description": "Student Management System CLI using Node.js, TypeScript and Inquirer",
   "homepage": "https://github.com/saadfrhan/node-inquirer-sms-cli#readme",
